@@ -29,4 +29,5 @@
      * 導航套件：Mapbox、ARkit
      * 美工：Figma
      * 檢測：Postman
-     * 開發使用語言：C#
+     * 開發使用語言：C#  
+![image](S__191594498.jpg)
